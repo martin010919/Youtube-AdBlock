@@ -1,0 +1,46 @@
+{
+  "timeStamp": 1698491748219,
+  "version": "1.52.2",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "uiTheme": "dark",
+    "importedLists": [],
+    "popupPanelSections": 31
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "adguard-spyware-url",
+    "block-lan",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "easylist-chat",
+    "easylist-newsletters",
+    "easylist-notifications",
+    "easylist-annoyances",
+    "fanboy-social",
+    "fanboy-cookiemonster",
+    "ublock-cookies-easylist",
+    "ublock-annoyances",
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop\n* doubleclick.net * block\nwww.youtube.com doubleclick.net * block\n* googlesyndication.com * block\nwww.youtube.com googlesyndication.com * block\nwww.youtube.com twitter.com * block",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": "! 2022-11-08 https://www.instagram.com\n||scontent-vie1-1.cdninstagram.com/v/t51.2885-15/279452065_1712335722450076_8427654045085845084_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=hS56lI_0sxkAX-eiMZe&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAK-PYXzVHDuVZwWqyXiyzShWnt9kx8nnKOojrtqX00JA&oe=636EF252&_nc_sid=86f79a$image\n\n! 2023-10-04 https://myanimelist.net\n||myanimelist.net/c/img/images/event/MB_20231004_TLA/TLA_PC_left.png$image\n||myanimelist.net/c/img/images/event/MB_20231004_TLA/TLA_PC_right.png$image\n||myanimelist.net/c/img/images/event/MB_20231004_TLA/TLA_PC_left.png$image\n||myanimelist.net/c/img/images/event/MB_20231004_TLA/TLA_PC_top.png$image\n\n! 2023-10-15 https://www.youtube.com\n\n! 2023-10-16 https://www.youtube.com\n"
+}
