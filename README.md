@@ -10,10 +10,18 @@
 - Install the add-on called: Ninja-cookie
 
 ## Setup:
-Download Tampermonkey script manager, click the add-on, click "Add New Scrip +", it opens a new document, ctrl + A delete everything. 
-And, paste the code found in the adblocker.js.
+Download Tampermonkey script manager, click the add-on, click "Add New Scrip +", it opens a new document, ctrl + A delete everything to have an empty window.
+And, copy and paste the code found in the adblocker.js.
 
 (greasefork uploaded soon)
+
+## What it does:
+- Replaces youtube videos with their youtube embed counterparts, virtually skipping the "buy premium or turn off adblocker" popup
+- Removes and video ads, double ads, 6s ads, and more.
+
+## Bugs:
+- Playlist broken
+- Timestamp links and "most played video part" function does not work.
 
 ## Sources used:
 - The source for the ad-blocking part: https://github.com/iamfugui/YouTube-AD-Blocker
