@@ -36,7 +36,7 @@ And, copy and paste the code found in the adblocker.js.
 ## Sources used:
 - The source for the ad-blocking part: https://github.com/iamfugui/YouTube-AD-Blocker
 - The source for the Popup DeBlock: https://github.com/YelloNolo/YouTube-UnBlock
-- improvments and fixes by Me.
+- improvments, fixes, rewriting by Me.
 
 ## Made with love by:
 [@blynzdotdev](https://github.com/blynzdotdev) Follow my main account, i wrote this on my alt. account because i am locked out of 2FA
