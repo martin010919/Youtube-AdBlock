@@ -9,7 +9,7 @@
 - Install the add-on called: UblockOrigin
 - Install the add-on called: Ninja-cookie
 
-## for UblockOrigin:
+## for UblockOrigin (browser wide AdBlocking):
 - download the addon
 - click settings
 - scroll down
@@ -18,7 +18,7 @@
 - and whenever you are promted to select a ublock setting file use that "ublocksetup"
 - then you are done, that config file wil automatically set everything to ad-less but usuable
 
-## Setup:
+## Setup for the script:
 Download Tampermonkey script manager, click the add-on, click "Add New Scrip +", it opens a new document, ctrl + A delete everything to have an empty window.
 And, copy and paste the code found in the adblocker.js.
 
