@@ -2,6 +2,7 @@
 // @name         AdBlocker
 // @namespace    http://tampermonkey.net/
 // @version      5.95
+// @created      2023-10-28
 // @description  Complete youtube adblocker, with the function the disable "youtube premium popup"
 // @author       blynzdotdev & iamfugui & YelloNolo
 // @match        *://*.youtube.com/*
