@@ -31,6 +31,7 @@ And, copy and paste the code found in the adblocker.js.
 ## Bugs:
 - Playlist broken
 - Timestamp links and "most played video part" function does not work.
+- ram usage problems
 
 ## Sources used:
 - The source for the ad-blocking part: https://github.com/iamfugui/YouTube-AD-Blocker
